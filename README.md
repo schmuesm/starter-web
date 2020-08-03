@@ -13,3 +13,8 @@ Sample website with plenty of files for demos
 This is the famous and one of the best Training course of 
 Devps
 
+## GIT Camparison
+Adding GIT Comparisons lecture
+
+## GITHub Content
+Comparison with Repo
