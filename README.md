@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 ## Git & GITHub Training
 This is the famous and one of the best Training course of 
 Devops
-Adding Rebase lecture
+Adding Rebase lecture we have done some work...
 
 ## GIT Camparison
 Adding GIT Comparisons lecture
