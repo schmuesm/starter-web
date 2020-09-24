@@ -5,7 +5,6 @@
 
     Matthias Schmueser
     matthias.schmueser@t-online.de
-    Developer at DATIS
               
 # THANKS
 
