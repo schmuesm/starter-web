@@ -17,4 +17,4 @@ Devps
 Adding GIT Comparisons lecture
 
 ## GITHub Content
-Comparison with Repo
+Comparison with Repo, fork the repo and push it real good
