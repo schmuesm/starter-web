@@ -11,7 +11,7 @@ H, i'm modifying the file before Rebase
 
 # THANKS
 
-    <name>
+    Thanks to all my students.
 
 # TECHNOLOGY COLOPHON
 
