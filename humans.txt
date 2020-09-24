@@ -7,7 +7,8 @@ H, i'm modifying the file before Rebase
 
     Matthias Schmueser
     matthias.schmueser@t-online.de
-              
+    DevOPs Engineer Level III
+
 # THANKS
 
     <name>
