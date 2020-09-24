@@ -5,7 +5,6 @@
 
     Matthias Schmueser
     matthias.schmueser@t-online.de
-    Developer at DATIS
               
 # THANKS
 
@@ -15,3 +14,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docjer, Java Programming
