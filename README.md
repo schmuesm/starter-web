@@ -11,7 +11,8 @@ Sample website with plenty of files for demos
 
 ## Git & GITHub Training
 This is the famous and one of the best Training course of 
-Devps
+Devops
+Adding Rebase lecture
 
 ## GIT Camparison
 Adding GIT Comparisons lecture
