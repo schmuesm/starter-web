@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work, which we are using as Sa
 
 ## Introduction
 A lot of lectures are already submitted
-
+and a lot of lectures are still coming on...
 ## Purpose
 
 Sample website with plenty of files for demos
