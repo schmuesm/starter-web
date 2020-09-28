@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 H, i'm modifying the file before Rebase
+           
+Hi, i'm going to insert conflicts
 
 Doing some changes in local
 
@@ -13,7 +15,7 @@ Doing some changes in local
 
 # THANKS
 
-    <name>
+    Thanks to all my students.
 
 # TECHNOLOGY COLOPHON
 
