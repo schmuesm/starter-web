@@ -7,6 +7,8 @@ Hi, i'm going to insert conflicts
 
 Doing some changes in local
 
+Adding important notes on GIT stash
+
 # TEAM
 
     Matthias Schmueser
